@@ -9,6 +9,7 @@ return [
     'it'   => 'Italian',
     'nl'   => 'Nederlands',
     'ptbr' => 'Brazillian Portuguese',
+    'pt-BR' => 'Brazillian Portuguese',
     'tr'   => 'Turkish',
     'zhcn' => 'Simplified Chinese',
 ];

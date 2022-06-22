@@ -10,8 +10,8 @@ class Language
     const FR   = 'fr';
     const DE   = 'de';
     const IT   = 'it';
-    const PTBR = 'pt-br';
-    const ZHCN = 'zh-cn';
+    const PTBR = 'pt-BR';
+    const ZHCN = 'zhcn';
     const TR   = 'tr';
 
     public static function available()
@@ -23,7 +23,7 @@ class Language
             static::FR   => __('languages.fr'),
             static::DE   => __('languages.de'),
             static::IT   => __('languages.it'),
-            static::PTBR => __('languages.ptbr'),
+            static::PTBR => __('languages.pt-BR'),
             static::TR   => __('languages.tr'),
             static::ZHCN => __('languages.zhcn'),
         ];

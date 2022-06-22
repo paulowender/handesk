@@ -2,7 +2,7 @@
 
 return [
     'team'                  => 'Equipe|Equipes',
-    'member'                => 'Membro|Membros',
+    'member'                => 'Membro|Membros', 
     'invitationLink'        => 'Link de convite',
     'invitationLinkDesc'    => 'Convide mais pessoas para esta equipe enviando a eles este link, se eles não tem uma conta Handesk ainda, use o link de registro',
     'join'                  => 'Entre',
